@@ -1,0 +1,16 @@
+A sequência de somas será:
+
+Quando K = 1, SOMA = 0 + 1 = 1
+Quando K = 2, SOMA = 1 + 2 = 3
+Quando K = 3, SOMA = 3 + 3 = 6
+Quando K = 4, SOMA = 6 + 4 = 10
+Quando K = 5, SOMA = 10 + 5 = 15
+Quando K = 6, SOMA = 15 + 6 = 21
+Quando K = 7, SOMA = 21 + 7 = 28
+Quando K = 8, SOMA = 28 + 8 = 36
+Quando K = 9, SOMA = 36 + 9 = 45
+Quando K = 10, SOMA = 45 + 10 = 55
+Quando K = 11, SOMA = 55 + 11 = 66
+Quando K = 12, SOMA = 66 + 12 = 78
+Quando K = 13, SOMA = 78 + 13 = 91
+Ao final do loop, quando K atingir 13, o valor de SOMA será 91
