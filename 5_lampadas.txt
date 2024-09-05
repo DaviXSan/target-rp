@@ -1,0 +1,13 @@
+Primeira visita:
+
+Ação: Ligue aleatoriamente dois dos três interruptores e não ligue o terceiro interruptor.
+Observação: Após alguns minutos, dirija-se a uma sala com as lâmpadas e observe seu estado.
+Duas luzes estão acesas: A lâmpada apagada é controlada pelo interruptor que você deixou desligado.
+Uma lâmpada acesa: Você sabe que a lâmpada acesa é controlada por um dos dois interruptores que você ligou, mas ainda não sabe qual. A lâmpada apagada é controlada pelo terceiro interruptor.
+
+Segunda visita:
+
+Ação: Desligue um dos dois interruptores que você ligou na primeira visita.
+Observação: Volte para a sala com as lâmpadas e observe:
+Se a lâmpada que estava acesa ainda estiver acesa: O interruptor que você não mexeu nessa segunda visita controla essa lâmpada. Logo, o outro interruptor que você ligou na primeira visita controla a outra lâmpada acesa.
+Se a lâmpada que estava acesa agora estiver apagada: O interruptor que você desligou nessa segunda visita controla essa lâmpada. O interruptor que você deixou desligado na primeira visita controla a lâmpada apagada.
